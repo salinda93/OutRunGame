@@ -1,0 +1,74 @@
+﻿  Walk Road Game.cpp
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(16,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(16,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(17,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(17,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(18,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(18,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(19,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(19,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(61,45): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(95,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(98,40): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(102,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(103,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(104,44): warning C4305: '=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(106,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(127,68): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(128,67): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(142,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(153,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(157,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(159,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(167,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(167,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(168,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(168,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(168,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(168,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(168,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(168,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(169,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(169,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(169,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(169,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(169,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Walk Road Game\Walk Road Game\Walk Road Game.cpp(169,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Walk Road Game.vcxproj -> D:\Visual Studio 2019 workspace\Walk Road Game\Debug\Walk Road Game.exe
